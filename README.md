@@ -1,4 +1,4 @@
-# 🌙 AI-Powered Eid Learning & Card Creator App
+# 🌙 AI-Powered Learning & Activity App
 
 An interactive children's app built using AI-assisted vibe coding to help kids learn about Eid while creating personalized greeting cards and enjoying creative activities.
 
